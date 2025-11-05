@@ -91,6 +91,8 @@ py剪贴板/
 
 ---
 
+## English
+
 # Clipboard Monitor Tool
 
 A clipboard monitoring tool developed with PySide6 that automatically saves copied content and provides viewing, exporting, and copying functionality.
@@ -179,6 +181,8 @@ clipboard_monitor/
 - Using the global hotkey feature may require administrator privileges (on some systems)
 
 ---
+
+## Русский
 
 # Инструмент мониторинга буфера обмена
 
