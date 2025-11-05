@@ -65,7 +65,7 @@ Thumbs.db
 
 # Project specific
 clipboard_history/
-clipboard_monitor.py
+/clipboard_monitor.py
 
 # Temporary files
 *.tmp

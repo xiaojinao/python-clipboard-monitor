@@ -10,7 +10,7 @@ from PySide6.QtGui import QTextCursor, QFont, QIcon, QAction, QKeySequence
 from PySide6.QtWidgets import QSystemTrayIcon
 
 from ..core.clipboard_manager import ClipboardManager
-from ..core.clipboard_monitor import ClipboardMonitor
+from ..core.clipboard_watcher import ClipboardMonitor
 from ..utils.hotkey_listener import GlobalHotkeyListener
 from .list_widget import ClipboardListWidget
 from .list_item import ClipboardListItem
